@@ -1,0 +1,7 @@
+data/
+output/
+.venv/
+__pycache__/
+local_config.ini
+.vscode/
+*.DS_Store
