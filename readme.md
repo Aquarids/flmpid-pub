@@ -5,8 +5,8 @@ This repository contains the project files and resources for the research paper 
 All experimental results and detailed analyses can be found in the following document:  
 [Results PDF](https://github.com/Aquarids/Flmpid-pub/blob/main/doc/result.pdf)
 
-A sample dataset for the Flmpid framework is provided for demonstration purposes. ~~You can download the example dataset file from the following link:  
-[Example Dataset (RAR)](https://github.com/Aquarids/Flmpid-pub/blob/main/doc/example.rar)~~
+A sample dataset for the Flmpid framework is provided for demonstration purposes. ~~You can download the example dataset file from the following link: ~~
+
 
 The dataset file is too large to be hosted here. Please contact the maintainer for access.
 
