@@ -5,19 +5,10 @@ This repository contains the project files and resources for the research paper 
 All experimental results and detailed analyses can be found in the following document:  
 [Results PDF](https://github.com/Aquarids/Flmpid-pub/blob/main/doc/result.pdf)
 
-A sample dataset for the Flmpid framework is provided for demonstration purposes. ~~You can download the example dataset file from the following link: ~~
+A sample dataset for the Flmpid framework is provided for demonstration purposes. ~~You can download the example dataset file from the following link~~
 
 
 The dataset file is too large to be hosted here. Please contact the maintainer for access.
-
-## The File Structure
-output_dir/
-├── task_id/                     # If compare=True
-│   └── clients_params.h5        # Client parameters
-│   └── global_params.h5         # Global parameters
-└── dist/attack/results_task_id/ # Default directory (if compare=False)
-    └── clients_params.h5        # Client parameters
-    └── global_params.h5         # Global parameters
 
 ### `clients_params.h5`
 
